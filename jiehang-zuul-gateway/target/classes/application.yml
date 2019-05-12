@@ -1,0 +1,19 @@
+server:
+  port: 9527
+spring:
+  application:
+    name: JIEHANG-ZUUL-GATEWAY
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instance-id: jiehang-zuul-gateway-9527.com #添加实例标识
+    prefer-ip-address: true
+zuul:
+  ignored-services: "*" #用*作为通配符从而忽略9527端口，通过服务名来调用
+  prefix: "/services" #设置所有路径所有路径的前缀
+  routes:
+    plat:
+      path: /plat/**
+      service-id: jiehang-plat
