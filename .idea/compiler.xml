@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="basic-util" />
+        <module name="jiehang-config-server" />
         <module name="jiehang-eureka-server" />
         <module name="jiehang-zuul-gateway" />
         <module name="plat-interface" />
@@ -16,6 +17,7 @@
     <bytecodeTargetLevel>
       <module name="basic-parent" target="1.8" />
       <module name="basic-util" target="1.8" />
+      <module name="jiehang-config-server" target="1.8" />
       <module name="jiehang-eureka-server" target="1.8" />
       <module name="jiehang-parent" target="1.8" />
       <module name="jiehang-plat-parent" target="1.8" />

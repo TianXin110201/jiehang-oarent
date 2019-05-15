@@ -1,6 +1,6 @@
 spring:
   application:
-    name: AIGOU-EUREKA
+    name: JIEHANG-EUREKA
 server:
   port: 7001
 eureka:

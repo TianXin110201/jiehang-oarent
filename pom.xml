@@ -13,6 +13,7 @@
         <module>basic-parent</module>
         <module>jiehang-plat-parent</module>
         <module>jiehang-zuul-gateway</module>
+        <module>jiehang-config-server</module>
     </modules>
 
     <properties>

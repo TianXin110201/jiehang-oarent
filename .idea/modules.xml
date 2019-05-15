@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" filepath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiehang-config-server/jiehang-config-server.iml" filepath="$PROJECT_DIR$/jiehang-config-server/jiehang-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-eureka-server/jiehang-eureka-server.iml" filepath="$PROJECT_DIR$/jiehang-eureka-server/jiehang-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-parent.iml" filepath="$PROJECT_DIR$/jiehang-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-plat-parent/jiehang-plat-parent.iml" filepath="$PROJECT_DIR$/jiehang-plat-parent/jiehang-plat-parent.iml" />
