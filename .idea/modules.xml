@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-core/basic-core.iml" filepath="$PROJECT_DIR$/basic-parent/basic-core/basic-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-generator/basic-generator.iml" filepath="$PROJECT_DIR$/basic-parent/basic-generator/basic-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-parent.iml" filepath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" filepath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-config-server/jiehang-config-server.iml" filepath="$PROJECT_DIR$/jiehang-config-server/jiehang-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-eureka-server/jiehang-eureka-server.iml" filepath="$PROJECT_DIR$/jiehang-eureka-server/jiehang-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-parent.iml" filepath="$PROJECT_DIR$/jiehang-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-plat-parent/jiehang-plat-parent.iml" filepath="$PROJECT_DIR$/jiehang-plat-parent/jiehang-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiehang-product-parent/jiehang-product-parent.iml" filepath="$PROJECT_DIR$/jiehang-product-parent/jiehang-product-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-zuul-gateway/jiehang-zuul-gateway.iml" filepath="$PROJECT_DIR$/jiehang-zuul-gateway/jiehang-zuul-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-plat-parent/plat-interface/plat-interface.iml" filepath="$PROJECT_DIR$/jiehang-plat-parent/plat-interface/plat-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/jiehang-plat-parent/plat-service/plat-service.iml" filepath="$PROJECT_DIR$/jiehang-plat-parent/plat-service/plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiehang-product-parent/product-interface/product-interface.iml" filepath="$PROJECT_DIR$/jiehang-product-parent/product-interface/product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiehang-product-parent/product-service/product-service.iml" filepath="$PROJECT_DIR$/jiehang-product-parent/product-service/product-service.iml" />
     </modules>
   </component>
 </project>

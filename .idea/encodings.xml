@@ -3,12 +3,22 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-parent/basic-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-parent/basic-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-parent/basic-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-parent/basic-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-parent/basic-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-parent/basic-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-parent/basic-generator" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/basic-parent/basic-util" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jiehang-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jiehang-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jiehang-plat-parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jiehang-plat-parent/plat-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jiehang-plat-parent/plat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiehang-product-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiehang-product-parent/product-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiehang-product-parent/product-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jiehang-zuul-gateway" charset="UTF-8" />
   </component>
 </project>

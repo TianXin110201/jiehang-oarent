@@ -14,6 +14,7 @@
         <module>jiehang-plat-parent</module>
         <module>jiehang-zuul-gateway</module>
         <module>jiehang-config-server</module>
+        <module>jiehang-product-parent</module>
     </modules>
 
     <properties>
